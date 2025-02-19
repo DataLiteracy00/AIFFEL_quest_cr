@@ -1,3 +1,0 @@
-import calculator
-
-calculator.main()
